@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block arun %}
+<center>
+    <h1>Add User - Form </h1>
+    <br>
+    <form method="POST">
+        <table border="0" width="400">
+            <tr>
+                <th width="150" align="right">ID</th>
+                <td><input type="text" name="id"></td>
+            </tr>
+            <tr>
+                <th align="right">Name</th>
+                <td><input type="text" name="name"></td>
+            </tr>
+            <tr aria-rowspan="2">
+                <td>&nbsp;</td>
+            </tr>
+            <tr align="left">
+                <td colspan="2"><input type="submit" name="Save"></td>
+
+
+        </table>
+    </form>
+</center>
+{% endblock %}

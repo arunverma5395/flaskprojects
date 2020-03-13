@@ -1,0 +1,17 @@
+{% extends 'base.html'%}
+{% block arun %}
+<h1>Index page- Arun</h1>
+<ul>
+    {% for f in fruits %}
+    <li>
+        {{f}}
+    </li>
+
+    {% endfor %}
+</ul>
+{% if 'Mango' in fruits %}
+<p> Mango is in the list</p>
+{% else %}
+<p> Mango is not in the list</p>
+{% endif%}
+{% endblock %}
