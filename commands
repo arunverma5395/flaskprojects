@@ -1,0 +1,1000 @@
+  209  sudo -i
+  210  python
+  211  python3
+  212  python2
+  213  sudo apt-get install python2
+  214  sudo apt-get install python27
+  215  sudo apt-get search python2*
+  216  sudo apt-get --help
+  217  cd DOc
+  218  cd Documents/
+  219  ls
+  220  sudo rm twistd.pid 
+  221  ls
+  222  source ~/tutorial/bin/activate
+  223  ls
+  224  twistd -n smap tutorial.ini 
+  225  gedit tutorial.ini 
+  226  twistd -n smap tutorial.ini 
+  227  ls
+  228  sudo rm twistd.pid 
+  229  twistd -n smap tutorial.ini 
+  230  sudo rm twistd.pid 
+  231  gedit tutorial.ini 
+  232  twistd -n smap tutorial.ini 
+  233  ls
+  234  rm -rf fc778450-b191-11e0-bb60-0026bb56ec92 
+  235  twistd -n smap tutorial.ini 
+  236  ls
+  237  cat tutorial.ini 
+  238  twistd -n smap tutorial.ini 
+  239  gedit tutorial.ini 
+  240  twistd -n smap tutorial.ini 
+  241  gedit tutorial.ini 
+  242  twistd -n smap tutorial.ini 
+  243  exit
+  244  exi
+  245  exit
+  246  cd tutorial/
+  247  ls
+  248  cd lib/python2.7/site-packages/smap/
+  249  ls
+  250  cd drivers/
+  251  ls
+  252  pwd
+  253  less tutorial.py
+  254  exit
+  255  exit
+  256  ls
+  257  tar -xvf pycharm-community-2019.3.1.tar.gz 
+  258  ls
+  259  sudo mv pycharm-community-2019.3.1 /opt/
+  260  cd /opt/
+  261  ls
+  262  cd pycharm-community-2019.3.1/
+  263  ls
+  264  cat Install-Linux-tar.txt 
+  265  ls
+  266  cd bin/
+  267  ls
+  268  ./pycharm.sh 
+  269  exit
+  270  cd .local/bin/
+  271  ./virtualenv ~/zenedge
+  272  cd
+  273  rm -rf zenedge/
+  274  ls
+  275  cd .local/bin/
+  276  ls
+  277  ./virtualenv -p python2 ~/zenedge
+  278  cd
+  279  sudo apt install python2.7  
+  280  sudo apt install python2.7-dev
+  281  pip
+  282  sudo apt install python-pip
+  283  pip install --user virtualenv
+  284  ls
+  285  virtualenv -p python2 tutorial
+  286  $PATH
+  287  cd .local/bin/
+  288  ls
+  289  ./virtualenv -p python2 tutorial
+  290  cd
+  291  ls
+  292  cd .local/bin/
+  293  ls
+  294  rm -rf tutorial
+  295  ls
+  296  ./virtualenv -p python2 ~/tutorial
+  297  cd
+  298  cd tutorial/
+  299  ls
+  300  source bin/activate
+  301  ls
+  302  which python
+  303  ls
+  304  mkdir codes
+  305  cd ..
+  306  l
+  307  scd sm
+  308  cd sm
+  309  cd snap/
+  310  ls
+  311  cd
+  312  cd tutorial/
+  313  ls
+  314  git clone 
+  315  Contact Us Write For Us Twitter Newsletter
+  316  Linux Tutorials - Learn Linux Configuration
+  317  git clone https://github.com/SoftwareDefinedBuildings/smap.git
+  318  ls
+  319  cd smap/
+  320  ls
+  321  cd python/
+  322  ls
+  323  pip install -r requirements.txt 
+  324  twistd
+  325  ls
+  326  python setup.py install
+  327  cd ..
+  328  ls
+  329  cd /usr/bin/
+  330  ls
+  331  cd
+  332  cd tutorial/
+  333  ls
+  334  cd bin/
+  335  ls
+  336  cd
+  337  cd tutorial/
+  338  ls
+  339  cd smap/
+  340  ls
+  341  twistd
+  342  cd
+  343  ls
+  344  twistd
+  345  deactivate 
+  346  clear
+  347  twistd
+  348  source tutorial/bin/activate
+  349  ls
+  350  cd
+  351  cd Documents/
+  352  ls
+  353  touch tutorial.ini
+  354  gedit tutorial.ini 
+  355  ls
+  356  twistd -n smap tutorial.ini 
+  357  pip install BS4
+  358  twistd -n smap tutorial.ini 
+  359  pip install BeautifulSoup
+  360  twistd -n smap tutorial.ini
+  361  pip install psycopg2-binary
+  362  twistd -n smap tutorial.ini
+  363  sudo fuser -k 8080/tcp
+  364  twistd -n smap tutorial.ini
+  365  ls
+  366  sudo rm twistd.pid 
+  367  ls
+  368  twistd -n smap tutorial.ini
+  369  ls
+  370  cd
+  371  cd snap/
+  372  cd
+  373  cd tutorial/
+  374  ls
+  375  cd smap/
+  376  ls
+  377  cd python/
+  378  ls
+  379  cd smap/
+  380  ls
+  381  cd drivers/
+  382  ls
+  383  gedit tutorial.py
+  384  sls
+  385  ls
+  386  cd ..
+  387  ls
+  388  cd ..
+  389  ls
+  390  python setup.py install
+  391  gedit 
+  392  gedit tutorial.py
+  393  gedit smap/drivers/tutorial.py
+  394  code smap/drivers/tutorial.py
+  395  python setup.py install
+  396  ls
+  397  cd smap/drivers/
+  398  ls
+  399  pwd
+  400  less tutorial.py 
+  401  d ..
+  402  cd ..
+  403  ls
+  404  python setup.py install
+  405  cd smap/drivers/
+  406  less tutorial.py 
+  407  ls
+  408  cd ../../
+  409  python setup.py install
+  410  ls
+  411  python setup.py install
+  412  cd zenedge/lib/python2.7/site-packages/
+  413  ls
+  414  ls -l
+  415  cd zenedge/
+  416  source bin/activate
+  417  cd
+  418  cd tutorial/
+  419  ls
+  420  cd smap/
+  421  cd python/
+  422  ls
+  423  pip install -r requirements.txt 
+  424  pythno setup.py install
+  425  python setup.py install
+  426  ls
+  427  twistd
+  428  cd
+  429  cd zenedge/
+  430  ls
+  431  cd zenedge/
+  432  ls
+  433  pip install -r requirements.txt 
+  434  ls
+  435  twistd
+  436  python setup.py install
+  437  twistd
+  438  ls
+  439  python setup.py rolloui
+  440  python setup.py rollout
+  441  cd /dev/
+  442  sudo chown arun:arun ttyTest*
+  443  sudo chown -R arun:arun ttyTest*
+  444  exit
+  445  redis-cli 
+  446  groups
+  447  cd /dev/
+  448  ls
+  449  exit
+  450  cd zenedge/zenedge/simulators/
+  451  sudo python2 simulator.py 
+  452  cd zenedge/zenedge/simulators/
+  453  nano simulator.py 
+  454  sudo python2 simulator.py 
+  455  nano simulator.py 
+  456  sudo python2 simulator.py 
+  457  nano simulator.py 
+  458  sudo python2 simulator.py 
+  459  exit
+  460  sudo -H gedit /etc/apt/sources.list
+  461  exit
+  462  sudo apt-get install apache2
+  463  which java
+  464  java
+  465  sudo apt-get update
+  466  nano /etc/apt/sources.list
+  467  sudo apt-get update
+  468  sudo apt-get install open jdk8
+  469  sudo apt-get install open-jdk8
+  470  sudo apt-get install Openjdk8
+  471  sudo apt-get install openjdk-8-jdk
+  472  java
+  473  which java
+  474  sudo gedit /etc/environment
+  475  git
+  476  which java
+  477  cd /usr/bin/java
+  478  cd /usr
+  479  ls
+  480  cd lib
+  481  ls
+  482  cd jvm
+  483  ls
+  484  cd java-
+  485  cd java-8-openjdk-amd64/
+  486  ls
+  487  pwd
+  488  sudo gedit /etc/environment 
+  489  ls
+  490  clear
+  491  sudo groupadd tomcat
+  492  sudo useradd -s /bin/false -g tomcat -d /opt/tomcat tomcat
+  493  cd /tmp
+  494  curl -O http://apache.mirrors.ionfish.org/tomcat/tomcat-8/v8.5.5/bin/apache-tomcat-8.5.5.tar.gz
+  495  ls
+  496  sudo mkdir /opt/tomcat
+  497  sudo tar xzvf apache-tomcat-8*tar.gz -C /opt/tomcat --strip-components=1
+  498  git
+  499  cd ..
+  500  pwd
+  501  cd /home
+  502  ls
+  503  cd arun
+  504  pwd
+  505  ls
+  506  cd dsrepo
+  507  ls
+  508  cd ..
+  509  ls
+  510  cd Downloads/
+  511  ls
+  512  cd ..
+  513  ls
+  514  mkdir jenkins
+  515  cd Downloads/
+  516  mv ./jenkins_2.204.1_all.deb  ../jenkins/
+  517  cd ../jenkins/
+  518  ls
+  519  sudo apt install ./jenkins_2.204.1_all.deb 
+  520  ls
+  521  which jenkins
+  522  whereis jenkins
+  523  cd /usr/share/jenkins/
+  524  ls
+  525  cd ../jenkins/cd /tmp
+  526  ls
+  527  cd /tmp
+  528  ls
+  529  sudo tar xzvf apache-tomcat-8*tar.gz -C /opt/tomcat --strip-components=1
+  530  cd /home/arun
+  531  pwd
+  532  ls
+  533  cd Downloads/
+  534  ls
+  535  rm /tmp/apache-tomcat-8.5.5.tar.gz 
+  536  ls /tmp
+  537  mv ./apache-tomcat-8.5.50.tar.gz /tmp
+  538  ls /tmp
+  539  sudo tar xzvf apache-tomcat-8*tar.gz -C /opt/tomcat --strip-components=1
+  540  sudo tar xzvf apache-tomcat-8*tar.gz
+  541  cd /tmp
+  542  ls
+  543  sudo tar xzvf apache-tomcat-8.5.50.tar.gz 
+  544  ls
+  545  mkdir /tmp2
+  546  sudo mkdir /tmp2
+  547  mv ./apache-tomcat-8.5.50 /tmp2
+  548  sudo mv ./apache-tomcat-8.5.50 /tmp2
+  549  cd /tmp2
+  550  ls
+  551  rm *
+  552  rm apache-tomcat-8.5.50/
+  553  rm -d apache-tomcat-8.5.50/
+  554  rm -df apache-tomcat-8.5.50/
+  555  ls
+  556  cd apache-tomcat-8.5.50/
+  557  ls
+  558  cd ..
+  559  rm -dr apache-tomcat-8.5.50/
+  560  y
+  561  sudo rm -dr apache-tomcat-8.5.50/
+  562  ls
+  563  sudo mv /tmp/apache-tomcat-8.5.50.tar.gz /tmp2
+  564  cd /tmp2
+  565  ls
+  566  sudo tar xzvf apache-tomcat-8*tar.gz -C /opt/tomcat --strip-components=1
+  567  cd /opt/tomcat
+  568  ls
+  569  cd /tmp
+  570  ls
+  571  cd /opt/tomcat
+  572  ls
+  573  cd webapps/
+  574  sudo cd webapps/
+  575  cd /home/arun/jenkins/
+  576  ls
+  577  cd /usr/share/jenkins/
+  578  ls
+  579  sudo mv jenkins.war /opt/tomcat/webapps/
+  580  sudo ls /opt/tomcat/webapps/
+  581  which tomcat
+  582  whereis tomcat
+  583  cd /opt/tomcat
+  584  ls
+  585  cd bin
+  586  sudo cd bin
+  587  ls bin
+  588  sudo ls ./bin
+  589  sudo ./bin/startup.sh
+  590  screen -S tomcat-start
+  591  sudo screen -S tomcat-start
+  592  sudo apt install screen
+  593  sudo screen ls
+  594  sudo screen -S ArunScreen#1
+  595  screen ls
+  596  sudo screen ls
+  597  sudo screen-ls
+  598  sudo screen -ls
+  599  sudo screen -r 11896
+  600  sudo screen -ls
+  601  sudo screen -r 11896
+  602  sudo ./bin/startup.sh
+  603  sudo ps-f
+  604  sudo ps
+  605  sudo ps -a
+  606  sudo ps -a |grep tomcat
+  607  sudo ps -a |grep java
+  608  cat /var/lib/jenkins/secrets/initialAdminPassword
+  609  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+  610  sudo ls
+  611  sudo ls webapps/
+  612  cd jen
+  613  cd jenkins
+  614  sudo ls jenkins
+  615  sudo ls ./webapps/jenkins
+  616  cd /usr/share/jenkins/
+  617  ls
+  618  pwd
+  619  sudo ls
+  620  whereis jenkins
+  621  whereis .jenkins
+  622  cd /
+  623  pwd
+  624  sudo find ./ .jenkins/workspace
+  625  sudo find ./ .jenkins/workspace|p
+  626  sudo find ./ .jenkins/workspace 
+  627  sudo ls /var/lib/jenkins/
+  628  cd /var/lib/jenkins/
+  629  ls
+  630  cd plugins/
+  631  ls
+  632  clear
+  633  ls
+  634  cd Downloads/
+  635  ls
+  636  bash Anaconda3-2019.10-Linux-x86_64.sh 
+  637  ls -l
+  638  sudo chown -R arun:arun FlaskSamples
+  639  ls -l
+  640  ls
+  641  cd FlaskSamples/
+  642  clear
+  643  export FLASK_APP=app.py
+  644  flask run
+  645  export FLASK_APP=app.py
+  646  flask run
+  647  cd FlaskSamples/
+  648  ls
+  649  sudo rm app.py
+  650  ls
+  651  conda list
+  652  python
+  653  anaconda-navigator
+  654  sudp apt install python3-pip
+  655  sudo apt install python3-pip
+  656  pip3 install flask
+  657  python3
+  658  clear
+  659  sudo add-apt-repository ppa:webupd8team/atom
+  660  sudo apt-get update
+  661  sudo apt-get install atom
+  662  atom
+  663  sudo atom
+  664  pwd
+  665  ls
+  666  python
+  667  jenkins
+  668  echo $PATH
+  669  echo $JAVA_HOME
+  670  echo $MAVEN_HOME
+  671  echo $JENKINS_HOME
+  672  cd /usr/lib
+  673  ls
+  674  ls jen*
+  675  ls jenkins
+  676  ls v*
+  677  ls x*
+  678  ls
+  679  ls zei*
+  680  cd /
+  681  which jenkins
+  682  which java
+  683  cd /var/lib
+  684  ls
+  685  ls jen*
+  686  cd jenkins
+  687  ls
+  688  jenkins start
+  689  ls
+  690  cd jobs
+  691  ls
+  692  cd ..
+  693  service jenkins start
+  694  systemctl status jenkins.service
+  695  clear
+  696  systemctl status jenkins
+  697  /etc/init.d/jenkins start
+  698  cd ..
+  699  ls
+  700  cd /etc/init.d
+  701  ls
+  702  cd ..
+  703  pwd
+  704  cd /home/arun
+  705  ls
+  706  cd jenkins
+  707  ls
+  708  echo $CATALINE_HOME
+  709  echo $CATALINA_HOME
+  710  cd /opt
+  711  ls
+  712  cd tomcat/
+  713  ls
+  714  cd webapps/
+  715  ls
+  716  ls webapps
+  717  sudo ls webapps
+  718  sudo systemctl start tomcat
+  719  sudo systemctl restart tomcat
+  720  sudo gedit /etc/environment
+  721  source /etc/environment 
+  722  echo $JAVA_HOME
+  723  ls
+  724  sudo gedit /etc/environment
+  725  source /etc/environment 
+  726  echo $CATALINA_HOME
+  727  sudo systemctl restart tomcat
+  728  source /etc/environment 
+  729  ls
+  730  cd bin
+  731  ls
+  732  cd bin
+  733  ls
+  734  $CATALINA_HOME/bin/startup.sh
+  735  sudo $CATALINA_HOME/bin/startup.sh
+  736  cat /root/.jenkins/secrets/initialAdminPassword
+  737  sudo cat /root/.jenkins/secrets/initialAdminPassword
+  738  gedit
+  739  ls -l
+  740  pwd
+  741  ls
+  742  python
+  743  docker ps -a
+  744  sudo docker ps -a
+  745  sudo docker exec -it 8771ac5c1560 bash
+  746  pwd
+  747  cd flasksource/
+  748  ls
+  749  exit
+  750  sudo su -
+  751  clear
+  752  docker
+  753  clear
+  754  docker pull httpd
+  755  sudo docker pull httpd
+  756  docker run httpd
+  757  sudo docker run httpd
+  758  sudo docker run -d httpd
+  759  docker ps
+  760  sudo docker ps
+  761  sudo docker run -d -p 8080:80 httpd
+  762  docker ps
+  763  sudo docker ps
+  764  sudo docker attach 11a4a99f1459
+  765  docker ps
+  766  sudo docker ps
+  767  docker rm -f
+  768  sudo docker rm -f
+  769  sudo docker stop 23e600b2a815
+  770  sudo docker rm 23e600b2a815
+  771  docker ps
+  772  sudo docker ps
+  773  docker run -it httpd
+  774  sudo docker run -it httpd
+  775  sudo docker run -d -it -p 8080:80 httpd
+  776  sudo docker run  -it 1495d4869275a8650015f0b9cbe4baab36f9570a7c56cf0b4b0c305381ae8a2a
+  777  docker ps
+  778  sudo docker ps
+  779  sudo docker run  -it 1495d4869275 /bin/bash
+  780  sudo docker exec -it 1495d4869275 bash
+  781  clear
+  782  docker ps
+  783  sudo docker ps
+  784  docker inspect 1495d4869275
+  785  sudo docker inspect 1495d4869275
+  786  clear
+  787  git
+  788  cd /var/jenkins
+  789  cd /var/jenkin
+  790  cd /
+  791  ls
+  792  cd var
+  793  ls
+  794  cd lib
+  795  ls
+  796  cd jenkins/
+  797  ls
+  798  cd jobs
+  799  ls
+  800  cd ..
+  801  ls
+  802  cd ..
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd ..
+  807  cd /opt
+  808  ls
+  809  cd tomcat/
+  810  ls
+  811  ls webapps/
+  812  sudo ls webapps/
+  813  ls
+  814  cd bin
+  815  ls ../bin
+  816  ls ./bin
+  817  sudo ls ./bin
+  818  startup
+  819  sudo startup.sh
+  820  cd bin
+  821  sudo cd bin
+  822  clear
+  823  ls
+  824  sudo ls ./bin
+  825  sudo service tomcat7 start
+  826  sudo service tomcat start
+  827  sudo systemctl start tomcat
+  828  cler
+  829  clear
+  830  docker ps
+  831  sudo docker ps
+  832  docker exec -it 1495d4869275 bash
+  833  sudo docker exec -it 1495d4869275 bash
+  834  clear
+  835  sudo docker pull poroko/flask-demo-app
+  836  docker images
+  837  sudo docker images
+  838  docker run -it poroko/flask-demo-app
+  839  sudo docker run -it poroko/flask-demo-app
+  840  clear
+  841  ls
+  842  docker ps
+  843  sudo docker ps
+  844  sudo docker ps -a
+  845  sudo docker run -it -p 1000:80 poroko/flask-demo-app
+  846  sudo docker run -d -p 1000:80 poroko/flask-demo-app
+  847  docker ps
+  848  sudo docker ps
+  849  sudo docker run -d -p 9000:5000 poroko/flask-demo-app
+  850  docker ps
+  851  sudo docker ps
+  852  docker inspect poroko/flask-demo-app
+  853  sudodocker inspect poroko/flask-demo-app
+  854  sudo docker inspect poroko/flask-demo-app 
+  855  sudo docker ps
+  856  sudo docker inspect 7e776b3192ee
+  857  clear
+  858  docker ps
+  859  sudo docker ps
+  860  sudo docker exec -it 7e776b3192ee bash
+  861  clar
+  862  clear
+  863  cd \
+  864  cd /home/arun
+  865  pwd
+  866  mkdir flasksource
+  867  ls
+  868  sudo docker ps
+  869  docker run -d -v /home/arun/flasksource:/src -p 9002:5000 poroko/flask-demo-app
+  870  sudo docker run -d -v /home/arun/flasksource:/src --name arvflaskapp -p 9002:5000 poroko/flask-demo-app
+  871  pwd
+  872  cd flasksource/
+  873  ls
+  874  sudo docker inspect 079ca8a257db5655ec936f9768670fbd2106c22f4f7be0756738ceb93f78b13e
+  875  clear
+  876  sudo docker ps
+  877  sudo docker ps -a
+  878  sudo docker start 079ca8a257db
+  879  sudo docker ps -a
+  880  sudo docker run -v /home/arun/flasksource:/src --name arvflaskapp3 -p 9003:5000 poroko/flask-demo-app
+  881  sudo docker run  --name arvflaskapp3 -p 9003:5000 poroko/flask-demo-app
+  882  sudo docker run  --name arvflaskapp4 -p 9003:5000 poroko/flask-demo-app
+  883  sudo docker run  --name arvflaskapp5 -p 9005:5000 poroko/flask-demo-app
+  884  ls
+  885  history
+  886  ls
+  887  which ls
+  888  which docker
+  889  which jenkins
+  890  which tomcat
+  891  which apache
+  892  cal 12 2020
+  893  uname -o
+  894  ifconfig
+  895  exit
+  896  cat /etc/passwd
+  897  sudo userdel dummyusr2
+  898  sudo userdel dummyusr
+  899  sudo userdel test
+  900  sudo userdel sumit
+  901  sudo userdel shivam
+  902  ps
+  903  sudo kill 14714
+  904  sudo kill 14497
+  905  sudo userdel shivam
+  906  sudo userdel shivam | 14497
+  907  sudo ps -a |grep  14497
+  908  sudo kill 14497
+  909  sudo ps -a |grep  14497
+  910  docker ps
+  911  docker images
+  912  su dummyusr2
+  913  sudo useradd -m test
+  914  pwd
+  915  cd ..
+  916  ls
+  917  sudo userdel -r test
+  918  ls
+  919  sudo usermod dkusr -p
+  920  sudo usermod dkusr --password 789
+  921  su dkusr
+  922  sudo userdel -r dkusr
+  923  ls
+  924  sudo ls
+  925  sudo shivam ls
+  926  sudo shivam 
+  927  whoami
+  928  nano /etc/shadow
+  929  sudo nano /etc/shadow
+  930  useradd test
+  931  sudo useradd test
+  932  cat /etc/passwdd
+  933  cat /etc/passwd
+  934  pwd
+  935  cd /home
+  936  ls
+  937  sudo useradd -m dummyusr
+  938  ls
+  939  sudo useradd -m dummyusr2 -g docker
+  940  cat /etc/passwd
+  941  su dummyusr2
+  942  sudo passwd dummyusr2
+  943  su dummyusr2
+  944  cat /etc/passwd
+  945  sudo userdel dummyusr2
+  946  cat /etc/passwd
+  947  sudo userdel shivam
+  948  sudo useradd -m dkusr -g docker - 786
+  949  sudo useradd -m dkusr -g docker -p 786
+  950  su dkusr
+  951  su passwd dkusr
+  952  sudo userdel dkusr
+  953  sudo useradd -m dkusr -g docker
+  954  pwd
+  955  ls
+  956  rm -r dkusr
+  957  ls
+  958  rm -r dkusr
+  959  sudo rm -r dkusr
+  960  ls
+  961  sudo rm -r dummyusr
+  962  sudo rm -r dummyusr2
+  963  sudo rm -r sumit
+  964  sudo rm -r shivam
+  965  ls
+  966  sudo useradd -m dkusr -g docker
+  967  sudo userdel dkusr
+  968  sudo useradd -m dkusr -g docker
+  969  su dkusr
+  970  su passwd dkusr
+  971  sudo userdel dkusr
+  972  ls
+  973  rm -f dkusr
+  974  sudo rm -f dkusr
+  975  sudo rm -r dkusr
+  976  ls
+  977  sudo useradd -m dkuser -g docker
+  978  su dkuser
+  979  su passwd dkuser
+  980  sudo passwd dkuser
+  981  sudo userdel dkuser
+  982  ls
+  983  sudo rm -r dkuser
+  984  ls
+  985  sudo useradd -m dkuser -g docker -p786
+  986  su dkuser
+  987  sudo userdel dkuser
+  988  ls
+  989  sudo rm -r dkuser
+  990  sudo useradd -m dkuser -g docker -p
+  991  ls
+  992  sudo useradd -m dkuser -g docker
+  993  sudo userdel dkuser
+  994  ls
+  995  sudo rm -r dkuser
+  996  ls
+  997  sudo useradd -m dkusr -g docker
+  998  sudo passwd dkusr
+  999  su dkusr
+ 1000  sudo userdel dkusr
+ 1001  ls
+ 1002  sudo rm -r dkusr
+ 1003  sudo useradd -m dkusr -g docker -s /bin/bash
+ 1004  sudo passwd dkusr
+ 1005  su dkusr
+ 1006  sudo userdel -r dkusr
+ 1007  ls
+ 1008  sudo useradd -m dkusr -g docker -s /bin/bash
+ 1009  sudo passwd dkusr
+ 1010  su dkusr
+ 1011  ls 
+ 1012  su dkusr
+ 1013  su
+ 1014  su
+ 1015  sudo passwd root
+ 1016  su -
+ 1017  pwd
+ 1018  cd /home/aurn
+ 1019  cd /home/arun
+ 1020  pwd
+ 1021  su root
+ 1022  docker
+ 1023  docker ps
+ 1024  sudo docker ps
+ 1025  sudo docker images
+ 1026  cat /etc/passwd
+ 1027  cat /etc/shadow
+ 1028  sudo cat /etc/shadow
+ 1029  sudo cat/etc/group
+ 1030  sudo cat /etc/group
+ 1031  sudo cat /etc/group | grep dock*
+ 1032  passwd
+ 1033  cat /etc/passwd
+ 1034  sudo su -
+ 1035  su dkusr
+ 1036  su 
+ 1037  su
+ 1038  https://github.com/d4py/d4py.git
+ 1039  git clone https://github.com/d4py/d4py.git
+ 1040  ls
+ 1041  cd d4py
+ 1042  pwd
+ 1043  ls
+ 1044  cd section-3
+ 1045  ls
+ 1046  cd basic-env/
+ 1047  ls
+ 1048  nano flask_example.py 
+ 1049  docker ps -a
+ 1050  su dkusr
+ 1051  docker images
+ 1052  su dkusr
+ 1053  docker ps -a
+ 1054  su dkusr
+ 1055  docker ps -a
+ 1056  su dkusr
+ 1057  pwd
+ 1058  cd d
+ 1059  ls
+ 1060  cd d4py/
+ 1061  ls
+ 1062  cd section-3
+ 1063  ls
+ 1064  cd basic-env/
+ 1065  ls
+ 1066  git init
+ 1067  ls
+ 1068  git ls
+ 1069  git --ls
+ 1070  git login
+ 1071  ls
+ 1072  git status
+ 1073  git add .
+ 1074  git status
+ 1075  git commit -m 'added'
+ 1076  git status
+ 1077  ls
+ 1078  git -ls
+ 1079  ls
+ 1080  git push origin master
+ 1081  git remote add origin https://github.com/arunverma5395/flaskcustom.git
+ 1082  git remote add origin2 https://github.com/arunverma5395/flaskcustom.git
+ 1083  git push origin2 master
+ 1084  sudo nano readme
+ 1085  cal
+ 1086  cal 3 2020
+ 1087  python
+ 1088  ls
+ 1089  echo $FLASK_APP
+ 1090  flask run
+ 1091  docker ps
+ 1092  sudo docker ps
+ 1093  sudo docker ps -a
+ 1094  sudo docker ps
+ 1095  atom .
+ 1096  flask run
+ 1097  atom .
+ 1098  flask run
+ 1099  ls
+ 1100  export FLASK_APP=test.py
+ 1101  echo $FLASK_APP
+ 1102  flask run
+ 1103  cd ..
+ 1104  ls
+ 1105  cd PycharmProjects/
+ 1106  ls
+ 1107  cd Flask
+ 1108  cd FlaskSamples/
+ 1109  ls
+ 1110  cd venv
+ 1111  ls
+ 1112  sudo snap install postman
+ 1113  postman
+ 1114  which postman
+ 1115  whereis postman
+ 1116  path
+ 1117  echo $PATH
+ 1118  export PATH=/home/arun/anaconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+ 1119  echo $PATH
+ 1120  postman
+ 1121  exit
+ 1122  pwd
+ 1123  ls
+ 1124  su dkusr
+ 1125  exit
+ 1126  mysql -u root -p
+ 1127  sudo apt-get update
+ 1128  sudo apt-get install mysql-workbench
+ 1129  mysql -u arun -p
+ 1130  mysql -u arun -p786
+ 1131  mysql -u arun -p
+ 1132  mysql -u root -p
+ 1133  mysql -u arun -p
+ 1134  mysql -u dbuser -p
+ 1135  mysql -u root -p
+ 1136  mysql 
+ 1137  mysql -u arun -p
+ 1138  mysql -u root -p
+ 1139  docker images
+ 1140  sudo docker images
+ 1141  sudo docker ps -a
+ 1142  pwd
+ 1143  cd /home/arun
+ 1144  ls
+ 1145  cd PycharmProjects/
+ 1146  ls
+ 1147  cd FlaskSamples/
+ 1148  ls
+ 1149  cd venv/
+ 1150  ls
+ 1151  more test.py
+ 1152  ls
+ 1153  cd .
+ 1154  cd ..
+ 1155  ls
+ 1156  cd ..
+ 1157  ls
+ 1158  cd FlaskOne/
+ 1159  ls
+ 1160  cd venv/
+ 1161  ls
+ 1162  cd ../..
+ 1163  ls
+ 1164  cd ..
+ 1165  ls
+ 1166  cd flasksource/
+ 1167  ls
+ 1168  rm -f flasksource
+ 1169  ls
+ 1170  cd ..
+ 1171  ls
+ 1172  rm flasksource
+ 1173  rm -R flasksource
+ 1174  ls
+ 1175  cd d4d
+ 1176  cd d4py/
+ 1177  ls
+ 1178  cd section-3
+ 1179  ls
+ 1180  cd build-
+ 1181  cd build-flask/
+ 1182  ls
+ 1183  more requirements.txt 
+ 1184  more Dockerfile 
+ 1185  exit
+ 1186  mysql
+ 1187  sudo mysql
+ 1188  su -
+ 1189  git init
+ 1190  gist status
+ 1191  git status
+ 1192  git add .
+ 1193  git status
+ 1194  git push https://github.com/arunverma5395/flaskmysql-withdocker-examples
+ 1195  git remote add https://github.com/arunverma5395
+ 1196  git status
+ 1197  git commit - m 'all projects committed'
+ 1198  git log
+ 1199  git commit
+ 1200  git commit -m 'a'
+ 1201  git status
+ 1202  git log
+ 1203  git remote add arungithub https://github.com/arunverma5395
+ 1204  git push arungithub master
+ 1205  git remote add arungithub https://github.com/arunverma5395/flaskprojects
+ 1206  git remote add mygithub https://github.com/arunverma5395/flaskprojects
+ 1207  git push mygithub master
+ 1208  history >commands
